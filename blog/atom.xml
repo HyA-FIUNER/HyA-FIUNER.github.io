@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hya-fiuner.github.io/blog</id>
+    <title>Histología y Anatomía Blog</title>
+    <updated>2023-03-10T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hya-fiuner.github.io/blog"/>
+    <subtitle>Histología y Anatomía Blog</subtitle>
+    <icon>https://hya-fiuner.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Horarios]]></title>
+        <id>https://hya-fiuner.github.io/blog/consulta</id>
+        <link href="https://hya-fiuner.github.io/blog/consulta"/>
+        <updated>2023-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Teoría]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="teoría">Teoría<a href="#teoría" class="hash-link" aria-label="Direct link to Teoría" title="Direct link to Teoría">​</a></h3><p><strong>Miercoles</strong>: 10:00 hs a 12:30 hs</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="prácticas">Prácticas<a href="#prácticas" class="hash-link" aria-label="Direct link to Prácticas" title="Direct link to Prácticas">​</a></h3><p><strong>Comisión 1</strong>: 10:00 hs a 12:30 hs</p><p><strong>Comisión 2</strong>: 10:00 hs a 12:30 hs</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="consulta">Consulta<a href="#consulta" class="hash-link" aria-label="Direct link to Consulta" title="Direct link to Consulta">​</a></h3><p><strong>Lunes</strong>: 14:00 hs a 15:00 hs</p><p><strong>jueves</strong>: 10:00 hs a 11:00 hs</p>]]></content>
+        <author>
+            <name>Bioing. Gabriela Main</name>
+        </author>
+        <category label="consulta" term="consulta"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Condiciones de regularidad y promoción]]></title>
+        <id>https://hya-fiuner.github.io/blog/regularidad</id>
+        <link href="https://hya-fiuner.github.io/blog/regularidad"/>
+        <updated>2023-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Regularizan la asignatura aquellos estudiantes que cumplan con:]]></summary>
+        <content type="html"><![CDATA[<p><strong>Regularizan</strong> la asignatura aquellos estudiantes que cumplan con:</p><ul><li><p>Asistencia a las clases Coloquiales-prácticas 80%</p></li><li><p>Asistencia a clases Prácticas de laboratorio 80%</p></li><li><p>Aprobación del 60% de las rubrics (Sistema Nervioso)</p></li><li><p>Aprobación de los dos problemas propios del campo profesional planteados con 60% cada uno.</p></li><li><p>Aprobación del 60% de los tests automatizados.</p></li></ul><div class="theme-admonition theme-admonition-caution alert alert--warning admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Atención</div><div class="admonitionContent_S0QG"><p>Se podrán recuperar aquellas evaluaciones no aprobadas durante las semanas 15 y 16 del cuatrimestre.</p></div></div><p><strong>Promocionan</strong> la asignatura aquellos estudiantes que cumplan con:</p><p>*Asistencia a las clases Coloquiales-prácticas 80%</p><p>*Asistencia a clases Prácticas de laboratorio 80%</p><p>*Aprobación del 60% de las rubricas (Sistema Nervioso)</p><p>*Aprobación de los dos problemas propios del campo profesional planteados con 60% cada uno.</p><p>*Aprobación del 60% de los tests automatizados previos a cada evaluación promocional.</p><ul><li>Aprobación con 7 o más de cada evaluación promocional.</li></ul><div class="theme-admonition theme-admonition-caution alert alert--warning admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Atención</div><div class="admonitionContent_S0QG"><p>Se podrán recuperar aquellas evaluaciones no aprobadas durante las semanas 15 y 16 del cuatrimestre.</p></div></div><h2 class="anchor anchorWithStickyNavbar_LWe7" id="acreditación">Acreditación<a href="#acreditación" class="hash-link" aria-label="Direct link to Acreditación" title="Direct link to Acreditación">​</a></h2><p>Estudiantes en condición <strong>PROMOCIONAL</strong>: acreditan sin examen final.</p><p>Estudiantes en condición <strong>REGULAR</strong>: acreditan con la aprobación de 6 o más en el examen final.</p><p>Estudiantes en condición <strong>LIBRE</strong>: acreditan con la aprobación de las dos etapas: </p><ol><li><p>Realización práctica de laboratorios</p></li><li><p>Realización de una evaluación con el formato de los alumnos regulares</p></li></ol><div class="theme-admonition theme-admonition-danger alert alert--danger admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z"></path></svg></span>Alumnos libres</div><div class="admonitionContent_S0QG"><p>Los estudiantes que rindan el examen final en la modalidad de libre, deberán avisar con antelación a los integrantes de la asignatura.</p></div></div><p>En el caso que el examen se realice escrito, la practica de laboratorio se realizará el mismo jueves del examen final pero en el horario de las 11hs, aprobada esta instancia rendirá la evaluación teórica escrita a las 14hs</p>]]></content>
+        <author>
+            <name>Bioing. Gabriela Main</name>
+        </author>
+        <category label="regularidad" term="regularidad"/>
+        <category label="promoción" term="promoción"/>
+    </entry>
+</feed>

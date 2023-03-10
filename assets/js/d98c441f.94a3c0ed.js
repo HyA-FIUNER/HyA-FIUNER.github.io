@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhya_fiuner_github_io=self.webpackChunkhya_fiuner_github_io||[]).push([[106],{3498:a=>{a.exports=JSON.parse('{"label":"regularidad","permalink":"/blog/tags/regularidad","allTagsPath":"/blog/tags","count":1}')}}]);
