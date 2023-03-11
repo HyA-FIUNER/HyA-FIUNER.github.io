@@ -50,7 +50,7 @@ export default function Home() {
   return (
     <Layout
       title={siteConfig.title}
-      description="Description will go into a meta tag in <head />">
+      description="Material de estudio colaborativo de cátedra de Histología y Anatomía de la FIUNER">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
