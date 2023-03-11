@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhya_fiuner_github_io=self.webpackChunkhya_fiuner_github_io||[]).push([[602],{1291:a=>{a.exports=JSON.parse('{"label":"promoci\xf3n","permalink":"/blog/tags/promocion","allTagsPath":"/blog/tags","count":1}')}}]);
