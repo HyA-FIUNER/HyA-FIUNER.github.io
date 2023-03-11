@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Histología y Anatomía',
-  tagline: 'Material de estudio de la cátedra',
+  tagline: 'Material de estudio colaborativo',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -29,8 +29,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'es',
-    locales: ['es'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
@@ -43,14 +43,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/HyA-FIUNER/HyA-FIUNER.github.io/blob/main/',
         },
         blog: {
           showReadingTime: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/HyA-FIUNER/HyA-FIUNER.github.io/blob/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -69,13 +69,14 @@ const config = {
         logo: {
           alt: 'H y A Logo',
           src: 'img/logo.svg',
+          srcDark: 'img/logo_dark.svg',
         },
         items: [
-          {
-            label: 'Noticias',
-            to: '/blog',
-            position: 'left'
-          },
+          // {
+          //   label: 'Noticias',
+          //   to: '/blog',
+          //   position: 'left'
+          // },
           {
             label: 'Histología',
             type: 'docSidebar',
@@ -89,6 +90,11 @@ const config = {
             position: 'left',
           },
           {
+            href: 'https://campus.ingenieria.uner.edu.ar/course/view.php?id=155',
+            label: 'Campus',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/HyA-FIUNER/HyA-FIUNER.github.io',
             label: 'GitHub',
             position: 'right',
@@ -97,48 +103,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Cátedra de Histología y Anantomía de la FIUNER`,
       },
       prism: {
         theme: lightCodeTheme,

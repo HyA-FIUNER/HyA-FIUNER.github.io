@@ -1,45 +1,41 @@
 import React from 'react';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Histología',
+    image: '/img/histologia.png',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Rama de la anatomía que estudia los tejidos de animales y plantas.
       </>
     ),
+    link: 'docs/histologia/',
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Anatomía',
+    image: '/img/anatomia.jpg',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Ciencia que estudia la estructura del cuerpo.
       </>
     ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
+    link: 'docs/anatomia/',
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, image, title, description, link}) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--6')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <Link
+          to={link}>
+          <img className={styles.featureImage} src={image} alt={title} /> 
+        </Link>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
