@@ -8,7 +8,7 @@ You have just learned the **basics of Docusaurus** and made some changes to the 
 
 Docusaurus has **much more to offer**!
 
-Have **5 more minutes**? Take a look at **[versioning](../../histologia/tejidos/tejido-epitelial.md)** and **[i18n](../../histologia/tejidos/tejido-conectivo.md)**.
+Have **5 more minutes**? Take a look at **[versioning](../../histologia/tejidos/tejido-epitelial)** and **[i18n](../../histologia/tejidos/tejido-conectivo/introduccion)**.
 
 Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
 
