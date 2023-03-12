@@ -91,12 +91,12 @@ const config = {
           },
           {
             href: 'https://campus.ingenieria.uner.edu.ar/course/view.php?id=155',
-            label: 'Campus',
+            className: "header-moodle-link",
             position: 'right',
           },
           {
             href: 'https://github.com/HyA-FIUNER/HyA-FIUNER.github.io',
-            label: 'GitHub',
+            className: "header-github-link",
             position: 'right',
           },
         ],
