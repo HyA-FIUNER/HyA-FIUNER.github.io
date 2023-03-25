@@ -4,7 +4,7 @@ Hola a todos, bienvenidos a la página de histología y Anatomía.
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+### Instalacion
 
 ```
 $ yarn
