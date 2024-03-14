@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Docusaurus can manage multiple versions of your docs.
 
-## Create a docs version
+## descripcion del tejido epitelial 
 
 Release a version 1.0 of your project:
 
