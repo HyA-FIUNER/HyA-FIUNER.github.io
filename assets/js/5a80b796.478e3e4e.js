@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhya_fiuner_github_io=self.webpackChunkhya_fiuner_github_io||[]).push([[521],{2032:a=>{a.exports=JSON.parse('{"label":"editar","permalink":"/blog/tags/editar","allTagsPath":"/blog/tags","count":1}')}}]);

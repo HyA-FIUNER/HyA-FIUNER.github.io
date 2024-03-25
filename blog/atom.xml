@@ -12,8 +12,14 @@
         <id>https://hya-fiuner.github.io/blog/colaborar</id>
         <link href="https://hya-fiuner.github.io/blog/colaborar"/>
         <updated>2023-03-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Colaborar con el contenido]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="colaborar-con-el-contenido">Colaborar con el contenido<a href="#colaborar-con-el-contenido" class="hash-link" aria-label="Direct link to Colaborar con el contenido" title="Direct link to Colaborar con el contenido">​</a></h3><p>Este sitio es un recurso dinámico que se nutre por el conocimiento y el aporte colaborativo. </p><p>Aquí podrás aprender a editar este sitio y compartir información.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="edición-simple">Edición simple<a href="#edición-simple" class="hash-link" aria-label="Direct link to Edición simple" title="Direct link to Edición simple">​</a></h3><h3 class="anchor anchorWithStickyNavbar_LWe7" id="grandes-cambios">Grandes cambios<a href="#grandes-cambios" class="hash-link" aria-label="Direct link to Grandes cambios" title="Direct link to Grandes cambios">​</a></h3>]]></content>
+        <summary type="html"><![CDATA[Introducción]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="introducción">Introducción<a href="https://hya-fiuner.github.io/blog/colaborar#introducci%C3%B3n" class="hash-link" aria-label="Direct link to Introducción" title="Direct link to Introducción">​</a></h3>
+<p>Este sitio ha sido desarrollado y es mantenido por la Cátedra de Histología y Anatomía de la FIUNER. No obstante, nuestra meta principal es transformarlo en un espacio colaborativo donde todos los estudiantes puedan contribuir, enriqueciendo así el contenido de manera más completa y organizada en relación al material de la materia.</p>
+<p>Docusaurus is a static-site generator. It builds a single-page application with fast client-side navigation, leveraging the full power of React to make your site interactive. It provides out-of-the-box documentation features but can be used to create any kind of site (personal website, product, blog, marketing landing pages, etc).</p>
+<p>Este sitio es un recurso dinámico que se nutre por el conocimiento y el aporte colaborativo.</p>
+<p>Aquí podrás aprender a editar este sitio y compartir información.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="edición-simple">Edición simple<a href="https://hya-fiuner.github.io/blog/colaborar#edici%C3%B3n-simple" class="hash-link" aria-label="Direct link to Edición simple" title="Direct link to Edición simple">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="grandes-cambios">Grandes cambios<a href="https://hya-fiuner.github.io/blog/colaborar#grandes-cambios" class="hash-link" aria-label="Direct link to Grandes cambios" title="Direct link to Grandes cambios">​</a></h3>]]></content>
         <author>
             <name>Bioing. Angel Zeitoune</name>
             <uri>https://github.com/angel-zeitoune</uri>
