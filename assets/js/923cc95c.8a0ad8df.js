@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhya_fiuner_github_io=self.webpackChunkhya_fiuner_github_io||[]).push([[2188],{2655:a=>{a.exports=JSON.parse('{"label":"colaborar","permalink":"/blog/tags/colaborar","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
