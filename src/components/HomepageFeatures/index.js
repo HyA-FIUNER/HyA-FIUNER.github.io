@@ -1,13 +1,14 @@
 import React from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
+import ThemedImage from '@theme/ThemedImage';
 import styles from './styles.module.css';
 
 const FeatureList = [
   {
     title: 'Histología',
-    image: '/img/histologia.png',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    image_light: '/img/histologia_light.jpg',
+    image_dark: '/img/histologia_dark.jpg',
     description: (
       <>
         Rama de la anatomía que estudia los tejidos de animales y plantas.
@@ -17,8 +18,8 @@ const FeatureList = [
   },
   {
     title: 'Anatomía',
-    image: '/img/anatomia.jpg',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    image_light: '/img/anatomia_light.jpg',
+    image_dark: '/img/anatomia_dark.jpg',
     description: (
       <>
         Ciencia que estudia la estructura del cuerpo.
@@ -28,13 +29,19 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, image, title, description, link}) {
+function Feature({ image_light, image_dark, title, description, link }) {
   return (
     <div className={clsx('col col--6')}>
       <div className="text--center">
         <Link
           to={link}>
-          <img className={styles.featureImage} src={image} alt={title} /> 
+          <ThemedImage
+            sources={{
+              light: image_light,
+              dark: image_dark,
+            }}
+            className={styles.featureImage}
+          />
         </Link>
       </div>
       <div className="text--center padding-horiz--md">

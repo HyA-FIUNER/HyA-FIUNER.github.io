@@ -32,13 +32,25 @@ function HomepageHeader() {
         </div>
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <p>Este sitio es un recurso dinámico que se nutre por el conocimiento y el aporte colaborativo.</p>
-        <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/blog/colaborar">
-            ¿ Cómo colaboro ?
-          </Link>
-        </div>
       </div>
+    </header>
+  );
+}
+
+function HomepageColab() {
+
+  const { siteConfig } = useDocusaurusContext();
+
+  return (
+    <header className={clsx(styles.heroFooter)}>
+    <div className="container">
+      <p>Este sitio es un recurso dinámico que se nutre por el conocimiento y el aporte colaborativo.</p>
+      <div className={styles.buttons}>
+        <Link className="button button--secondary button--lg" to="/blog/colaborar">
+          ¿ Cómo colaboro ?
+        </Link>
+      </div>
+    </div>
     </header>
   );
 }
@@ -55,6 +67,7 @@ export default function Home() {
       <main>
         <HomepageFeatures />
       </main>
+      <HomepageColab />
     </Layout>
   );
 }
