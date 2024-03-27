@@ -56,3 +56,6 @@ En caso de ser la primera vez que clona el repositorio, puede reportar algunos p
 $ npm install
 ```
 
+#### Actualizar página
+
+cmd /C 'set "GIT_USER=nombreusuario" && npm run deploy'
