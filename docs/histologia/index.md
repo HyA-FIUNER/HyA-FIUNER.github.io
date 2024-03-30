@@ -12,6 +12,30 @@ Los tejidos animales están formados por células unidas entre sí con una susta
 
 La matriz intercelular está compuesta por agua, sales minerales y proteínas en distintas proporciones, según el tipo de tejido.
 
+import Gallery from '@site/src/components/Gallery';
+
+<Gallery 
+  images = {
+    [
+      {
+        "caption": "imagen 1",
+        "src": "/img/anatomia_dark.jpg",
+      },
+      {
+        "caption": "imagen 2",
+        "src": "/img/anatomia_light.jpg",
+      },
+      {
+        "caption": "imagen 3",
+        "src": "/img/histologia_dark.jpg",
+      },
+      {
+        "caption": "imagen 4",
+        "src": "/img/histologia_light.jpg",
+      }
+    ]}
+/>
+
 ## Composición del tejido
 
 En los animales, estos componentes celulares están inmersos en una matriz extracelular más o menos extensa, de características particulares para cada tejido.3​
