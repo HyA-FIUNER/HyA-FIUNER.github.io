@@ -93,6 +93,11 @@ const config = {
             position: 'left',
           },
           {
+            href: 'http://ingenieria.uner.edu.ar',
+            className: "header-uner-link",
+            position: 'right',
+          },
+          {
             href: 'https://campus.ingenieria.uner.edu.ar/course/view.php?id=155',
             className: "header-moodle-link",
             position: 'right',

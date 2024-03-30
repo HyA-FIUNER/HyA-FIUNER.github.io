@@ -27,6 +27,22 @@
   --ifm-color-primary-lightest: #ffffff;
 }
 
+.header-uner-link:hover {
+  opacity: 0.6;
+}
+
+.header-uner-link::before {
+  content: "";
+  width: 24px;
+  height: 24px;
+  display: flex;
+  background: url("/static/img/logo_uner_24.png") no-repeat;
+}
+
+[data-theme="dark"] .header-uner-link::before {
+  background: url("/static/img/logo_uner_dark_24.png") no-repeat;
+}
+
 .header-github-link:hover {
   opacity: 0.6;
 }
