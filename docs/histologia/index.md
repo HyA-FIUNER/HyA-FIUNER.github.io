@@ -38,7 +38,35 @@ import Gallery from '@site/src/components/Gallery';
 
 ## Composición del tejido
 
-En los animales, estos componentes celulares están inmersos en una matriz extracelular más o menos extensa, de características particulares para cada tejido.3​
+En los animales, estos componentes celulares están inmersos en una matriz extracelular más o menos extensa, de características particulares para cada tejido.
+
+
+import TissueCard from '@site/src/components/TissueCard';
+
+<TissueCard
+  title = 'Pancreas'
+  description = 'Epitelio plano simple'
+  images = {
+    [
+      {
+        "caption": "Porta",
+        "src": "/img/histologia/epitelial/EpSimP_porta.jpg",
+      },
+      {
+        "caption": "x 2",
+        "src": "/img/histologia/epitelial/EpSimP_02.jpg",
+      },
+      {
+        "caption": "x 10",
+        "src": "/img/histologia/epitelial/EpSimP_10.jpg",
+      },
+      {
+        "caption": "x 40",
+        "src": "/img/histologia/epitelial/EpSimP_40.jpg",
+      }
+    ]}
+/>
+
 
 Generalmente, esta matriz es generada por las propias células que componen el tejido, por lo que se dice que los tejidos están constituidos por un componente celular y, en algunos casos, por un componente extracelular. El tejido es uno de los niveles de organización biológica, situado entre el nivel celular que está en el escalón inferior, y el nivel del órgano que está en el escalón superior de organización.
 
