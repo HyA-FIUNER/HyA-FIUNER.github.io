@@ -18,20 +18,20 @@ import Gallery from '@site/src/components/Gallery';
   images = {
     [
       {
-        "caption": "imagen 1",
-        "src": "/img/anatomia_dark.jpg",
+        "caption": "Porta",
+        "src": "/img/histologia/epitelial/EpSimP_porta.jpg",
       },
       {
-        "caption": "imagen 2",
-        "src": "/img/anatomia_light.jpg",
+        "caption": "x 2",
+        "src": "/img/histologia/epitelial/EpSimP_02.jpg",
       },
       {
-        "caption": "imagen 3",
-        "src": "/img/histologia_dark.jpg",
+        "caption": "x 10",
+        "src": "/img/histologia/epitelial/EpSimP_10.jpg",
       },
       {
-        "caption": "imagen 4",
-        "src": "/img/histologia_light.jpg",
+        "caption": "x 40",
+        "src": "/img/histologia/epitelial/EpSimP_40.jpg",
       }
     ]}
 />
