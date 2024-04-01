@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import styles from './styles.module.css';
 import ModalGallery from '../ModalGallery';
 
-const TissueCard = ({ title, description, images }) => {
+const TissueCard = ({ title, category, description, images }) => {
 
     if (!images || images.length == 0) return null;
 
@@ -16,8 +16,8 @@ const TissueCard = ({ title, description, images }) => {
             <div className={styles.card} onClick={() => setSlideIndex(1)}>
                 <div className={styles.cardText}>
                     <div className={styles.titleTotal} >
-                        {/* <div className={styles.title}>{category}</div> */}
                         <h2>{title}</h2>
+                        <div className={styles.category}>{category}</div>
                         <div className={styles.description}>{description}</div>
                     </div>
                 </div>

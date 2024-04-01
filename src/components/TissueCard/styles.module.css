@@ -18,24 +18,29 @@
     color: rgb(28, 30, 33);
 }
 
-.card h2 {
-    margin: 0;
-    padding: 10px 0rem;
-}
-
-.card .description {
-    padding: 0 0;
-    font-size: 14px;
-}
-
 .cardText {
     display: grid;
     width: 50%;
 }
 
 .titleTotal {
-
     margin: 2.5em 1.5em 1.5em 1.5em;
+}
+
+.card h2 {
+    margin: 0;
+    padding: 10px 0rem;
+}
+
+.category {
+    color: #1b62d4;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.card .description {
+    padding: 0 0;
+    font-size: 14px;
 }
 
 .cardImage {
