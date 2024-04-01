@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
+import BrowserOnly from '@docusaurus/BrowserOnly';
 import styles from './styles.module.css';
 import ModalGallery from '../ModalGallery';
 
-const TissueCard = ({ title, category, description, images }) => {
+const TissueCardIntern = ({ title, category, description, images }) => {
 
     if (!images || images.length == 0) return null;
 
@@ -29,6 +30,21 @@ const TissueCard = ({ title, category, description, images }) => {
 
             {slideIndex && <ModalGallery images={images} slideIndex={slideIndex} setSlideIndex={setSlideIndex} />}
         </div>
+    );
+};
+
+const TissueCard = ({ title, category, description, images }) => {
+    return (
+        <BrowserOnly>
+            {() =>
+                <TissueCardIntern
+                    title={title}
+                    category={category}
+                    description={description}
+                    images={images}
+                />
+            }
+        </BrowserOnly>
     );
 };
 

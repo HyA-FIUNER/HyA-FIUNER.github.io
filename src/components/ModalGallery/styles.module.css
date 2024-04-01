@@ -27,6 +27,7 @@
 
 .slide {
     display: block;
+    text-align: -webkit-center;
 }
 
 /* The Close Button */
@@ -85,6 +86,7 @@
     padding: 8px 12px;
     position: absolute;
     top: 0;
+    z-index: 10;
 }
 
 /* Caption text */
@@ -107,8 +109,8 @@ img.hoverShadow {
 
 .modalImage {
     width: 100%;
-    max-height: calc(100vh - 100px);
-    object-fit: cover;
+    height: calc(100vh - 100px); 
+    object-fit: contain;
 }
 
 .caption {

@@ -1,12 +1,6 @@
-/*
-Markdown Gallery
--- v1.0 2016
--- Created by Lee Penney
--- Released under GPLv3
-*/
-
-import React, { useState } from 'react';
+import React from 'react';
 import styles from './styles.module.css';
+import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
 
 
 const ModalGallery = ({ images, slideIndex, setSlideIndex }) => {
@@ -32,9 +26,15 @@ const ModalGallery = ({ images, slideIndex, setSlideIndex }) => {
             <span className={styles.close} onClick={() => setSlideIndex(undefined)}>&times;</span>
             <div className={styles.modalContent}>
                 <div className={styles.slide}>
-                    <div className={styles.numbertext} >{images[slideIndex - 1].caption}</div>
-                    <img className={styles.modalImage} src={images[slideIndex - 1].src} alt={images[slideIndex - 1].caption} />
+                    <div className={styles.numbertext}>{images[slideIndex - 1].caption}</div>
+                    <TransformWrapper >
+                        <TransformComponent >
+                            {/* <div className={styles.modalImage} style={{ backgroundImage: 'url( ' + images[slideIndex - 1].src + ')' }} /> */}
+                            <img className={styles.modalImage} src={images[slideIndex - 1].src} alt={images[slideIndex - 1].caption} />
+                        </TransformComponent>
+                    </TransformWrapper>
                 </div>
+
 
                 <a className={styles.prev} onClick={() => plusSlides(-1)}>&#10094;</a>
                 <a className={styles.next} onClick={() => plusSlides(1)}>&#10095;</a>
