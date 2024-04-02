@@ -6,6 +6,8 @@ sidebar_position: 1
 
 Se llama histología a la ciencia que estudia los tejidos orgánicos.
 
+Este es un nuevo párrafo.
+
 ## Características de un tejido
 
 Los tejidos animales están formados por células unidas entre sí con una sustancia llamada matriz extracelular.
