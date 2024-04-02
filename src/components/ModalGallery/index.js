@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import { TransformWrapper, TransformComponent, useControls } from "react-zoom-pan-pinch";
 import styles from './styles.module.css';
-import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
 
 
 const ModalGallery = ({ images, slideIndex, setSlideIndex }) => {
@@ -21,17 +21,26 @@ const ModalGallery = ({ images, slideIndex, setSlideIndex }) => {
     // set image with based on number of images
     const imageWith = 100 / images.length + '%';
 
+    const Controls = (slideIndex) => {
+        const { resetTransform } = useControls();
+        useEffect(() => resetTransform(), [slideIndex]);
+    };
+
     return (
         <div className={styles.modal}>
             <span className={styles.close} onClick={() => setSlideIndex(undefined)}>&times;</span>
             <div className={styles.modalContent}>
                 <div className={styles.slide}>
                     <div className={styles.numbertext}>{images[slideIndex - 1].caption}</div>
-                    <TransformWrapper >
-                        <TransformComponent >
-                            {/* <div className={styles.modalImage} style={{ backgroundImage: 'url( ' + images[slideIndex - 1].src + ')' }} /> */}
-                            <img className={styles.modalImage} src={images[slideIndex - 1].src} alt={images[slideIndex - 1].caption} />
-                        </TransformComponent>
+                    <TransformWrapper>
+                        {({ resetTransform, ...rest }) => (
+                            <>
+                                <Controls slideIndex={slideIndex} />
+                                <TransformComponent >
+                                    <img className={styles.modalImage} src={images[slideIndex - 1].src} alt={images[slideIndex - 1].caption} />
+                                </TransformComponent>
+                            </>
+                        )}
                     </TransformWrapper>
                 </div>
 
