@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Se llama histología a la ciencia que estudia los tejidos orgánicos.
 
-Este es un nuevo párrafo.
+Este es un nuevo párrafo. **Texto agregado en negrita**.
 
 ## Características de un tejido
 
