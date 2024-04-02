@@ -32,8 +32,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'es',
+    locales: ['es'],
   },
 
   presets: [
@@ -54,6 +54,10 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/HyA-FIUNER/HyA-FIUNER.github.io/blob/main/',
+          postsPerPage: 'ALL',
+          blogTitle: 'Docusaurus blog!',
+          blogSidebarTitle: 'Artículos',
+          blogSidebarCount: 'ALL'
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -111,7 +115,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Cátedra de Histología y Anantomía de la FIUNER`,
+        copyright: `Copyright © ${new Date().getFullYear()} Cátedra de Histología y Anatomía de la FIUNER`,
       },
       prism: {
         theme: prismThemes.github,
