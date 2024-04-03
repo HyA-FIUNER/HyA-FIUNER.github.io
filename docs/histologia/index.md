@@ -6,8 +6,6 @@ sidebar_position: 1
 
 Se llama histología a la ciencia que estudia los tejidos orgánicos.
 
-Este es un nuevo párrafo.
-
 ## Características de un tejido
 
 Conjunto de células con estructura parecida y matriz extracelular (MEC) que se agrupan para realizar funciones determinadas. 
