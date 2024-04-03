@@ -10,7 +10,8 @@ Este es un nuevo párrafo.
 
 ## Características de un tejido
 
-Los tejidos animales están formados por células unidas entre sí con una sustancia llamada matriz extracelular.
+Conjunto de células con estructura parecida y matriz extracelular (MEC) que se agrupan para realizar funciones determinadas. 
+
 
 La matriz intercelular está compuesta por agua, sales minerales y proteínas en distintas proporciones, según el tipo de tejido.
 
