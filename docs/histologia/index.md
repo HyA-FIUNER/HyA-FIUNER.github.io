@@ -41,7 +41,7 @@ import TissueCard from '@site/src/components/TissueCard';
         "src": "/img/histologia/epitelial/EpSimP_porta.jpg",
       },
       {
-        "caption": "x 2",
+        "caption": "x 4",
         "src": "/img/histologia/epitelial/EpSimP_02.jpg",
       },
       {
