@@ -55,7 +55,6 @@ const config = {
           editUrl:
             'https://github.com/HyA-FIUNER/HyA-FIUNER.github.io/blob/main/',
           postsPerPage: 'ALL',
-          blogTitle: 'Docusaurus blog!',
           blogSidebarTitle: 'Artículos',
           blogSidebarCount: 'ALL'
         },
