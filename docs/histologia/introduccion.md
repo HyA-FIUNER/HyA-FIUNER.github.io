@@ -64,7 +64,7 @@ Generalmente, esta matriz es generada por las propias células que componen el t
 
 La disciplina de la biología encargada del estudio de los tejidos orgánicos es la histología. Si se profundiza en los detalles, puede afirmarse que existen más de una centena de tejidos diferentes en los animales y algunas decenas en los vegetales, pero la inmensa mayoría son tan solo variedades de unos pocos tipos fundamentales. La estructura íntima de los tejidos escapa a simple vista, por lo cual se usa el microscopio para visualizarla.
 
-## Complejidad de un tejido
+## Estructura de un tejido
 
 Un tejido puede estar constituido por células de una sola clase, todas iguales, o por varios tipos de células dispuestas ordenadamente. El grado de especialización de los tejidos varía notablemente, tanto en lo funcional como en lo estructural.4​Según su origen embriológico, pueden clasificarse en dos grandes grupos: tejidos especializados y tejidos no especializados.
 
