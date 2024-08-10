@@ -5,7 +5,7 @@ sidebar_position: 6
 # Congratulations!
 
 
-Links a páginas dentro del mismo sitio **[tejido epitelial](../../histologia/tejidos/tejido-epitelial)** y **[tejido conectivo](../../histologia/tejidos/tejido-conectivo/introduccion)**.
+Links a páginas dentro del mismo sitio **[tejido epitelial](../../histologia/tejidos/tejido-epitelial)** y **[tejido conectivo](../../histologia/tejidos/tejido-conectivo/)**.
 
 Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
 
