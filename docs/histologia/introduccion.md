@@ -74,35 +74,36 @@ Las células que forman parte de un tejido se especializan mediante procesos com
 
 Existen cuatro tipos de tejidos fundamentales, en los animales:
 
-* tejido epitelial: su función principal es recubrir las superficies del cuerpo tanto externas como internas.
+* [tejido epitelial](./tejidos/tejido epitelial): su función principal es recubrir las superficies del cuerpo tanto externas como internas.
 * tejido conectivo: su función principal es unir y soportar a otros tejidos del cuerpo.
 * tejido muscular: se ha especializado al máximo para conseguir un correcto funcionamiento mecánico a partir de la energía química, mediante la interacción de las proteínas contráctiles actina y miosina.
 * tejido nervioso: su función es percibir diferentes tipos de estímulos ya sean mecánicos, químicos, térmicos y traducirlos a señales eléctricas para su conducción.
 
+* Tejido epitelial
+  - epitelio de revestimiento
+  - epitelio glandular
 
-Estos tejidos fundamentales, según su origen embriológico, se pueden clasificar en dos grandes grupos:
-
-### Tejidos especializados
+* Tejido conectivo
+* Tejido conectivo propiamente dicho
+  - Tejido conectivo laxo
+  - Tejido conectivo denso:
+               - Regular
+               - Irregular
+  -  Tejido conectivo con propiedades especiales:
+               - Tejido Mucoso
+               - Tejido Reticular
+               - Tejido Elastico
+* Tejido conectivo especializado
+  - tejido adiposo
+  - tejido cartilaginoso
+  - tejido óseo
+  - tejido sanguineo
 
 * Tejido muscular
   - tejido muscular liso
   - tejido muscular estriado o esquelético
   - tejido muscular cardíaco
+    
 * Tejido nervioso
   - Neuronas
   - Neuroglia
-
-### Tejidos no especializados
-
-* Tejido epitelial
-  - epitelio de revestimiento
-  - epitelio glandular
-  - epitelio sensorial
-* Tejido conjuntivo
-  - Tejido conectivo laxo
-  - tejido adiposo
-  - Tejido conectivo reticular
-  - tejido cartilaginoso
-  - tejido óseo
-  - tejido hematopoyético
-* Exoesqueleto (Recubre exteriormente el cuerpo de los Artrópodos y otros Invertebrados.)
