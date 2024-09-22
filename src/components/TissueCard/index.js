@@ -6,7 +6,10 @@ import styles from './styles.module.css';
 const TissueCardIntern = ({ title, category, description, images }) => {
     if (!images || images.length === 0) return null;
 
-    const [slideIndex, setSlideIndex] = useState(0); // Inicializa con la primera imagen
+    // Calcula el índice inicial basado en la cantidad de imágenes
+    const initialSlideIndex = images.length === 3 ? 0 : (images.length === 4 ? 1 : 0);
+
+    const [slideIndex, setSlideIndex] = useState(initialSlideIndex); // Inicializa con el índice calculado
     const [isModalOpen, setIsModalOpen] = useState(false); // Estado para controlar el modal
     const [imageLoaded, setImageLoaded] = useState(false); // Estado para verificar si la imagen se ha cargado
 

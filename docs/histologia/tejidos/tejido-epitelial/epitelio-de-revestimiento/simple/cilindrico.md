@@ -57,11 +57,15 @@ import TissueCard from '@site/src/components/TissueCard';
 ## Estomago
 
 <TissueCard
-  title = 'Intestino Delgado'
-  category = 'Epitelio Simple Cilíndrico con microvellocidades'
+  title = 'Estomago'
+  category = 'Epitelio Simple Estomago'
   description = 'E&H'
   images = {
     [
+      {
+        "caption": "Porta",
+        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/1.jpg",
+      },
       {
         "caption": "x 4",
         "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/4XESTÓMAGOREF.jpg",
