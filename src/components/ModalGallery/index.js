@@ -2,61 +2,68 @@ import React, { useEffect } from 'react';
 import { TransformWrapper, TransformComponent, useControls } from "react-zoom-pan-pinch";
 import styles from './styles.module.css';
 
+const ModalGallery = ({ images, slideIndex, setSlideIndex, closeModal }) => {
+    if (!images || images.length === 0) return null;
 
-const ModalGallery = ({ images, slideIndex, setSlideIndex }) => {
-
-    if (!images || images.length == 0) return null;
+    // Ensure slideIndex is within valid range
+    const validIndex = Math.max(0, Math.min(slideIndex, images.length - 1));
 
     // Next/previous controls
     const plusSlides = (n) => {
-        if (slideIndex + n > images.length) {
-            setSlideIndex(1);
-        } else if (slideIndex + n < 1) {
-            setSlideIndex(images.length);
-        } else {
-            setSlideIndex(slideIndex + n);
+        let newIndex = validIndex + n;
+        if (newIndex >= images.length) {
+            newIndex = 0;
+        } else if (newIndex < 0) {
+            newIndex = images.length - 1;
         }
+        setSlideIndex(newIndex);
     };
 
-    // set image with based on number of images
+    // Reset image with based on number of images
     const imageWith = 100 / images.length + '%';
 
-    const Controls = (slideIndex) => {
+    const Controls = (validIndex) => {
         const { resetTransform } = useControls();
-        useEffect(() => resetTransform(), [slideIndex]);
+        useEffect(() => resetTransform(), [validIndex]);
     };
 
     return (
         <div className={styles.modal}>
-            <span className={styles.close} onClick={() => setSlideIndex(undefined)}>&times;</span>
+            <span className={styles.close} onClick={closeModal}>×</span>
             <div className={styles.modalContent}>
                 <div className={styles.slide}>
-                    <div className={styles.numbertext}>{images[slideIndex - 1].caption}</div>
+                    <div className={styles.numbertext}>{images[validIndex]?.caption || ''}</div>
                     <TransformWrapper>
                         {({ resetTransform, ...rest }) => (
                             <>
-                                <Controls slideIndex={slideIndex} />
-                                <TransformComponent >
-                                    <img className={styles.modalImage} src={images[slideIndex - 1].src} alt={images[slideIndex - 1].caption} />
+                                <Controls validIndex={validIndex} />
+                                <TransformComponent>
+                                    <img
+                                        className={styles.modalImage}
+                                        src={images[validIndex]?.src || ''}
+                                        alt={images[validIndex]?.caption || 'Image'}
+                                    />
                                 </TransformComponent>
                             </>
                         )}
                     </TransformWrapper>
                 </div>
 
-
-                <a className={styles.prev} onClick={() => plusSlides(-1)}>&#10094;</a>
-                <a className={styles.next} onClick={() => plusSlides(1)}>&#10095;</a>
+                <a className={styles.prev} onClick={() => plusSlides(-1)}>❮</a>
+                <a className={styles.next} onClick={() => plusSlides(1)}>❯</a>
 
                 {
-                    images.map((image, index) => (
-                        <div key={index} className={styles.column} style={{ width: imageWith }}>
-                            <div className={styles.captionContainer} onClick={() => setSlideIndex(index + 1)}>
-                                <p id="caption">{image.caption}</p>
-                            </div>
-                        </div>
-                    ))
-                }
+    images.map((image, index) => (
+        <div key={index} className={styles.column} style={{ width: imageWith }}>
+            <div
+                className={`${styles.captionContainer} ${slideIndex === index ? styles.active : ''}`}
+                onClick={() => setSlideIndex(index)}
+            >
+                <p id="caption">{image.caption}</p>
+            </div>
+        </div>
+    ))
+}
             </div>
         </div>
     );

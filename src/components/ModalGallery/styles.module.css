@@ -116,3 +116,23 @@ img.hoverShadow {
 .caption {
     text-align: center;
 }
+
+/* Botón activo */
+.active {
+    background-color: #151515 !important; /* Forzamos el fondo gris oscuro */
+    color: #ddd !important;            /* Forzamos el texto más claro */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); /* Sombra para resaltar */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transición suave */
+}
+
+/* Hover en botón activo */
+.active:hover {
+    background-color: #555 !important;  /* Mantiene el fondo al hacer hover */
+    color: #ddd !important;             /* Mantiene el color del texto */
+}
+
+/* Botones no activos con hover */
+.column:hover .captionContainer {
+    background-color: #333;     /* Cambia el fondo al hacer hover */
+}
+
