@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introducción
 
-El término "histología" proviene del griego "histos" que significan "tejido" y "logía" que significa "estudio o ciencia", respectivamente. Por lo cual el término "histología" es la ciencia que se centra en el estudio de los tejidos y órganos  del cuerpo humano. Utilizando la anatomía microscópica, la histología examina los tejidos que componen los órganos y sistemas del cuerpo humano. Una de las razones clave para adoptar este término fue la comprensión del desarrollo embrionario, que se basa en las tres capas germinales primarias: ectodermo, mesodermo y endodermo. Estas capas a su vez dan origen a los cuatro principales tipos de tejidos:
+El término **histología** proviene del griego **histos** que significan **tejido** y **logía** que significa **estudio o ciencia**, respectivamente. Por lo cual el término **histología** es la ciencia que se centra en el estudio de los tejidos y órganos  del cuerpo humano. Utilizando la anatomía microscópica, la histología examina los tejidos que componen los órganos y sistemas del cuerpo humano. Una de las razones clave para adoptar este término fue la comprensión del desarrollo embrionario, que se basa en las tres capas germinales primarias: ectodermo, mesodermo y endodermo. Estas capas a su vez dan origen a los cuatro principales tipos de tejidos:
 
 Tejido Epitelial, cubre las superficies corporales, reviste las cavidades del cuerpo, y forma glándulas.
 
@@ -62,7 +62,7 @@ La disciplina de la biología encargada del estudio de los tejidos orgánicos es
 
 ## Estructura de un tejido
 
-Un tejido puede estar constituido por células de una sola clase, todas iguales, o por varios tipos de células dispuestas ordenadamente. El grado de especialización de los tejidos varía notablemente, tanto en lo funcional como en lo estructural.4​Según su origen embriológico, pueden clasificarse en dos grandes grupos: tejidos especializados y tejidos no especializados.
+Un tejido puede estar constituido por células de una sola clase, todas iguales, o por varios tipos de células dispuestas ordenadamente. El grado de especialización de los tejidos varía notablemente, tanto en lo funcional como en lo estructural. Según su origen embriológico, pueden clasificarse en dos grandes grupos: tejidos especializados y tejidos no especializados.
 
 Las células que forman parte de un tejido se especializan mediante procesos complejos. La diferenciación celular, como otros procesos celulares, está controlada por mecanismos de regulación de la expresión génica tales como el control genómico, el control transcripcional, el control postranscripcional, el control traduccional y el control postraduccional.
 
@@ -70,8 +70,8 @@ Las células que forman parte de un tejido se especializan mediante procesos com
 
 Existen cuatro tipos de tejidos fundamentales, en los animales:
 
-* [tejido epitelial](./histologia/tejidos/tejido-epitelial): su función principal es recubrir las superficies del cuerpo tanto externas como internas.
-* [tejido conectivo](./histologia/tejidos/tejido-conectivo/): su función principal es unir y soportar a otros tejidos del cuerpo.
-* [tejido muscular](./histologia/tejidos/tejido-muscular): se ha especializado al máximo para conseguir un correcto funcionamiento mecánico a partir de la energía química, mediante la interacción de las proteínas contráctiles actina y miosina.
-* [tejido nervioso](./histologia/tejidos/tejido-nervioso): su función es percibir diferentes tipos de estímulos ya sean mecánicos, químicos, térmicos y traducirlos a señales eléctricas para su conducción.
+* [Tejido epitelial](./histologia/tejidos/tejido-epitelial): su función principal es recubrir las superficies del cuerpo tanto externas como internas.
+* [Tejido conectivo](./histologia/tejidos/tejido-conectivo/): su función principal es unir y soportar a otros tejidos del cuerpo.
+* [Tejido muscular](./histologia/tejidos/tejido-muscular): se ha especializado al máximo para conseguir un correcto funcionamiento mecánico a partir de la energía química, mediante la interacción de las proteínas contráctiles actina y miosina.
+* [Tejido nervioso](./histologia/tejidos/tejido-nervioso): su función es percibir diferentes tipos de estímulos ya sean mecánicos, químicos, térmicos y traducirlos a señales eléctricas para su conducción.
 
