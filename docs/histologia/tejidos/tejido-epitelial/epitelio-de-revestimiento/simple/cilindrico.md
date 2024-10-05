@@ -68,7 +68,7 @@ import TissueCard from '@site/src/components/TissueCard';
     [
       {
         "caption": "Porta",
-        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/PORTAESTOMAGO.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/PORTAESTÓMAGO.jpg",
       },
       {
         "caption": "x 4",
