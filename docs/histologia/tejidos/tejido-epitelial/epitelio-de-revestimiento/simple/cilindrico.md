@@ -39,6 +39,10 @@ import TissueCard from '@site/src/components/TissueCard';
   images = {
     [
       {
+        "caption": "Porta",
+        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/PORTAINTESTINODELGADO.jpg",
+      },
+      {
         "caption": "x 4",
         "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/4XINTESTINODELGADOREF.jpg",
       },
@@ -64,7 +68,7 @@ import TissueCard from '@site/src/components/TissueCard';
     [
       {
         "caption": "Porta",
-        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/1.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/PORTAESTOMAGO.jpg",
       },
       {
         "caption": "x 4",
