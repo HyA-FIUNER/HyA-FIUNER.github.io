@@ -20,6 +20,10 @@ import TissueCard from '@site/src/components/TissueCard';
   images = {
     [
       {
+        "caption": "Porta",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/PORTAESÓFAGO.jpg",
+      },
+      {
         "caption": "x 4",
         "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/4XESÓFAGOREF.jpg",
       },
@@ -44,6 +48,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   description = 'E&H'
   images = {
     [
+      {
+        "caption": "Porta",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/PORTAPIEL.jpg",
+      },
       {
         "caption": "x 4",
         "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/4XPIELREF.jpg",

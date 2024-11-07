@@ -16,6 +16,10 @@ import TissueCard from '@site/src/components/TissueCard';
   images = {
     [
       {
+        "caption": "Porta",
+        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/PORTAESPONJOSO.jpg",
+      },
+      {
         "caption": "x 4",
         "src": "/img/histologia/conectivo/conectivo-especializado/oseo/4XESPONJOSOREF.jpg",
       },
@@ -39,6 +43,10 @@ import TissueCard from '@site/src/components/TissueCard';
   description = 'E&H'
   images = {
     [
+      {
+        "caption": "Porta",
+        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/PORTACOMPACTO.jpg",
+      },
       {
         "caption": "x 4",
         "src": "/img/histologia/conectivo/conectivo-especializado/oseo/4XCOMPACTOREF.jpg",
