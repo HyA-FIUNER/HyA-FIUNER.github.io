@@ -23,5 +23,12 @@ import TissueCard from '@site/src/components/TissueCard';
   }
 />
 
-Esquema de los componentes de un epitelio y sus principales características morfológicas.Ross, M. Pawlina,W. Histología. 7ª edición. 
+Esquema de los componentes de un epitelio y sus principales características morfológicas.Ross, M. Pawlina,W. Histología. 7ª edición.
+
+Los epitelios pueden clasificarse:
+
+**Revestimiento**: cuya función principal es cubrir y proteger las superficies internas y externas del cuerpo. Este tipo de epitelio forma una barrera selectiva que regula el intercambio de sustancias, protege frente a lesiones mecánicas y químicas, y previene la entrada de microorganismos.
+
+**Grandular**: especializados en la producción y liberación de sustancias, como enzimas, hormonas o moco. Las células epiteliales de este tipo forman estructuras denominadas glándulas.
+
 
