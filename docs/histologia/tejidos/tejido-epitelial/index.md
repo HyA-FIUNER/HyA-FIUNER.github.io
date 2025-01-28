@@ -17,7 +17,7 @@ import TissueCard from '@site/src/components/TissueCard';
     [
       {
         "caption": "esquema",
-        "src": "/img/histologia/epitelial/esquema_epitelial.png",
+        "src": "/img/histologia/epitelial/esquema_epitelio.png",
       }
     ]
   }
