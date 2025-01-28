@@ -81,6 +81,7 @@ El epitelio simple escamoso (células planas, como en los alvéolos pulmonares).
 El tejido muscular liso (formado por células musculares lisas).
 
 2. **Tejidos heterogéneos** (diferentes tipos de células):
+   
 Composición: Incluyen diversos tipos celulares, cada uno con características específicas que contribuyen a la función del tejido.
 
 Función: Estos tejidos realizan funciones más complejas y diversas gracias a la interacción y cooperación de las diferentes células.
