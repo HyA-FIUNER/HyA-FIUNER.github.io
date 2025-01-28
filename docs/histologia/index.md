@@ -70,11 +70,11 @@ La diferencia entre los tejidos compuestos por un solo tipo de célula y aquello
 
 1. **Tejidos homogéneos** (un tipo de célula):
    
-Composición: Formados únicamente por un tipo celular. Todas las células tienen la misma estructura y función.
+*Composición*: Formados únicamente por un tipo celular. Todas las células tienen la misma estructura y función.
 
-Función: Tienden a cumplir funciones específicas y especializadas, de forma uniforme.
+*Función*: Tienden a cumplir funciones específicas y especializadas, de forma uniforme.
 
-Por ejemplo:
+*Por ejemplo*:
 
 El epitelio simple escamoso (células planas, como en los alvéolos pulmonares).
 
@@ -82,11 +82,11 @@ El tejido muscular liso (formado por células musculares lisas).
 
 2. **Tejidos heterogéneos** (diferentes tipos de células):
    
-Composición: Incluyen diversos tipos celulares, cada uno con características específicas que contribuyen a la función del tejido.
+*Composición*: Incluyen diversos tipos celulares, cada uno con características específicas que contribuyen a la función del tejido.
 
-Función: Estos tejidos realizan funciones más complejas y diversas gracias a la interacción y cooperación de las diferentes células.
+*Función*: Estos tejidos realizan funciones más complejas y diversas gracias a la interacción y cooperación de las diferentes células.
 
-Por ejemplo:
+*Por ejemplo*:
 
 El tejido conectivo, donde los fibroblastos producen fibras, los macrófagos participan en la defensa inmunológica, y los adipocitos almacenan energía.
 
