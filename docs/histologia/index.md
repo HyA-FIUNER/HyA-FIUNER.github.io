@@ -66,6 +66,22 @@ Un tejido puede estar constituido por células de una sola clase, todas iguales,
 
 Las células que forman parte de un tejido se especializan mediante procesos complejos. La diferenciación celular, como otros procesos celulares, está controlada por mecanismos de regulación de la expresión génica tales como el control genómico, el control transcripcional, el control postranscripcional, el control traduccional y el control postraduccional.
 
+La diferencia entre los tejidos compuestos por un solo tipo de célula y aquellos que contienen diferentes tipos de células radica principalmente en su composición y función:
+
+1. Tejidos homogéneos (un tipo de célula):
+Composición: Formados únicamente por un tipo celular. Todas las células tienen la misma estructura y función.
+Función: Tienden a cumplir funciones específicas y especializadas, de forma uniforme.
+Por ejemplo:
+El epitelio simple escamoso (células planas, como en los alvéolos pulmonares).
+El tejido muscular liso (formado por células musculares lisas).
+
+2. Tejidos heterogéneos (diferentes tipos de células):
+Composición: Incluyen diversos tipos celulares, cada uno con características específicas que contribuyen a la función del tejido.
+Función: Estos tejidos realizan funciones más complejas y diversas gracias a la interacción y cooperación de las diferentes células.
+Ejemplo:
+El tejido conectivo, donde los fibroblastos producen fibras, los macrófagos participan en la defensa inmunológica, y los adipocitos almacenan energía.
+El epitelio respiratorio, que combina células ciliadas para mover el moco, células caliciformes para secretarlo y células basales para regenerar el tejido.
+
 ## Clases de tejidos
 
 Existen cuatro tipos de tejidos fundamentales, en los animales:
