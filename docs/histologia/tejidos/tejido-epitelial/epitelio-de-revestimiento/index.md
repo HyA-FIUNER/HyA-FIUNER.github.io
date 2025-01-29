@@ -19,7 +19,7 @@ Como ya se mencionó estos epitelios cubren y protegen las superficies internas 
 1.  **Por el número de capas**:
     
     -   *Epitelio simple*: Una sola capa de células.
-        -   Ejemplo: Epitelio escamoso simple en los alvéolos pulmonares.
+        -   Ejemplo: Epitelio plano simple en los alvéolos pulmonares.
     -   *Epitelio estratificado*: Varias capas de células.
         -   Ejemplo: Epitelio plano estratificado en la epidermis.
         
