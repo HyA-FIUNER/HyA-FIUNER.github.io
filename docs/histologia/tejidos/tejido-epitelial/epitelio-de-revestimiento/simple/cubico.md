@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Cúbico
 
-## Glándula Mamaria
+## Glándula Mamaria 
 
 import TissueCard from '@site/src/components/TissueCard';
 
@@ -21,3 +21,9 @@ import TissueCard from '@site/src/components/TissueCard';
     ]
 }
 />
+
+## Túbulos renales (Riñón)
+
+## Conductos biliares (Hígado)
+
+## Conductos pancreáticos (Páncreas)
