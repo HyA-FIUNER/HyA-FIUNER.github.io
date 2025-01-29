@@ -20,11 +20,14 @@ Como ya se mencionó estos epitelios cubren y protegen las superficies internas 
     
 | Número de capas | Esquema | Ejemplo | Imagen histológica |
 |-----------|-----------|-----------|-----------|
-| **Epitelio simple**:<br/> Una sola capa de células | ![Epitelio simple](/img/histologia/epitelial/de-revestimiento/esquema_epitelio_simple.png) | Epitelio plano simple en los alvéolos pulmonares | ![Alvéolos pulmonares](/img/histologia/epitelial/de-revestimiento/epitelio_simple_alveolo.jpg) |
-| **Epitelio estratificado**:<br/> Varias capas de células | ![Epitelio simple](/img/histologia/epitelial/de-revestimiento/esquema_epitelio_estratificado.png) | Epitelio plano estratificado en la epidermis | ![Piel](/img/histologia/epitelial/de-revestimiento/epitelio_estratificado_piel.jpg) |
+| **Epitelio simple**:<br/> Una sola capa de células | ![Epitelio simple](/img/histologia/epitelial/de-revestimiento/clasificacion/esquema_epitelio_simple.png) | Epitelio plano simple en los alvéolos pulmonares | ![Alvéolos pulmonares](/img/histologia/epitelial/de-revestimiento/clasificacion/epitelio_simple_alveolo.jpg) |
+| **Epitelio estratificado**:<br/> Varias capas de células | ![Epitelio simple](/img/histologia/epitelial/de-revestimiento/clasificacion/esquema_epitelio_estratificado.png) | Epitelio plano estratificado en la epidermis | ![Piel](/img/histologia/epitelial/de-revestimiento/clasificacion/epitelio_estratificado_piel.jpg) |
 
 2.  **Por la forma de las células**:
     
-    -   *Células planas o escamosas*: Planas y delgadas.
-    -   *Células cúbicas*: De forma cúbica.
-    -   *Células cilíndricas*: Alargadas y rectangulares.
+
+| Número de capas | Esquema | Ejemplo | Imagen histológica |
+|-----------|-----------|-----------|-----------|
+| **Células planas o escamosas**:<br/>Planas. El ancho y el largo de la célula es mayor que la altura. Su núcleo es central y fusiforme | ![Planas](/img/histologia/epitelial/de-revestimiento/clasificacion/esquema_epitelio_planas.jpg) | Epitelio que se encuentran en los vasos sanguíneos | ![Alvéolos pulmonares](/img/histologia/epitelial/de-revestimiento/clasificacion/epitelio_planas.jpg) |
+| **Células cúbicas**:<br/> De forma cúbica. Las tres dimensiones son aproximadamente iguales. Su núcleo es central y esférico | ![Cúbica](/img/histologia/epitelial/de-revestimiento/clasificacion/esquema_epitelio_cubicas.jpg) | Epitelio que contienen los conductos de las glándulas | ![Piel](/img/histologia/epitelial/de-revestimiento/clasificacion/epitelio_cubicas.jpg) |
+| **Células cilíndricas o columnares**:<br/> Alargadas y rectangulares. El alto es mayor que el ancho y el largo. Su núcleo es ovalado y se encuentra hacia la región basal | ![Cilíndricas](/img/histologia/epitelial/de-revestimiento/clasificacion/esquema_epitelio_cilindricas.jpg) | Epitelio que se encuentra en el intestino | ![Alvéolos pulmonares](/img/histologia/epitelial/de-revestimiento/clasificacion/epitelio_cilindricas.jpg) |
