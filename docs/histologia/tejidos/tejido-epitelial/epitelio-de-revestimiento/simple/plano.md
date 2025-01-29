@@ -2,8 +2,12 @@
 sidebar_position: 1
 ---
 
-# Plano
+# Epitelio Plano Simple
 
-## Vena Cava
+## Endotelio (Vena Cava)
 
-## Pulmón
+## Alveolo (Pulmón)
+
+## Capsula de Bowman (Riñón)
+
+
