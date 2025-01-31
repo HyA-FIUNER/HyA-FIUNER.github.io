@@ -2,8 +2,8 @@
 sidebar_position: 1
 ---
 
-# Epitelio Plano Simple
+# Plano
 
-## SACAR ESTA SECCION
+
 
 
