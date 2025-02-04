@@ -51,7 +51,9 @@ import TissueCard from '@site/src/components/TissueCard';
 
 -   No presenta una capa de queratina en la superficie, por lo que sus células superficiales permanecen vivas y mantienen su núcleo.
 -   Se encuentra en **superficies húmedas**, protegiéndolas sin impedir el intercambio de sustancias.
--   Ubicación: **Cavidad oral, esófago, vagina y córnea**.
+-   Ubicación: **Lengua (Cavidad oral), esófago, vagina y córnea**.
+
+## Lengua (Cavidad oral)
 
 ## Esofago
 
@@ -84,3 +86,5 @@ import TissueCard from '@site/src/components/TissueCard';
     ]
   }
 />
+
+## Vagina
