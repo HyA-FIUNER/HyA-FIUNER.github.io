@@ -10,6 +10,7 @@ Su disposición en capas aporta mayor resistencia mecánica en comparación con 
 
 Se encuentra en estructuras con función de conducción y protección, como: ** Conductos excretores de glándulas sudoríparas, 
 Conductos de glándulas salivales, Conductos de glándulas mamarias**
+
 Su función primordial es:
 
  - Proteger las estructuras que recubre.
