@@ -4,12 +4,58 @@ sidebar_position: 1
 
 # Plano
 
-## Esofago
+Formado por múltiples capas de células, donde las más profundas son **cúbicas o cilíndricas**, y las más superficiales son **planas (escamosas)**. Su principal función es la **protección** frente a la fricción, agentes químicos y microorganismos, ya que su estructura lo hace resistente a daños mecánicos.
+
+Este tipo de epitelio se clasifica en:
+
+#### **1. Epitelio Estratificado Plano Queratinizado**
+
+-   Contiene una capa superficial de **células muertas llenas de queratina**, una proteína resistente e impermeable.
+-   Brinda **mayor protección** contra la deshidratación, el roce y los agentes externos, es por ello que este tipo de epitelio se 
+    encuentra en contacto con el exterior. 
+-   Ubicación: **Epidermis de la piel**.
+
+## Piel - Epidermis
 
 import React from 'react';
 
+import TissueCard from '@site/src/components/TissueCard';
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+<TissueCard
+  title = 'Piel'
+  category = 'Epitelio Simple Cilíndrico con microvellocidades'
+  description = 'E&H'
+  images = {
+    [
+      {
+        "caption": "Porta",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/PORTAPIEL.jpg",
+      },
+      {
+        "caption": "x 4",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/4XPIELREF.jpg",
+      },
+      {
+        "caption": "x 10",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/10XPIELREF.jpg",
+      },
+      {
+        "caption": "x 40",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/40XPIELREF.jpg",
+      },
+    ]
+  }
+/>
+
+#### **2. Epitelio Estratificado Plano No Queratinizado**
+
+-   No presenta una capa de queratina en la superficie, por lo que sus células superficiales permanecen vivas y mantienen su núcleo.
+-   Se encuentra en **superficies húmedas**, protegiéndolas sin impedir el intercambio de sustancias.
+-   Ubicación: **Cavidad oral, esófago, vagina y córnea**.
+
+## Esofago
+
+import React from 'react';
 
 import TissueCard from '@site/src/components/TissueCard';
 
@@ -34,35 +80,6 @@ import TissueCard from '@site/src/components/TissueCard';
       {
         "caption": "x 40",
         "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/40XESÓFAGOREF.jpg",
-      },
-    ]
-  }
-/>
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic -typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
-
-## Piel
-
-<TissueCard
-  title = 'Piel'
-  category = 'Epitelio Simple Cilíndrico con microvellocidades'
-  description = 'E&H'
-  images = {
-    [
-      {
-        "caption": "Porta",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/PORTAPIEL.jpg",
-      },
-      {
-        "caption": "x 4",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/4XPIELREF.jpg",
-      },
-      {
-        "caption": "x 10",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/10XPIELREF.jpg",
-      },
-      {
-        "caption": "x 40",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/40XPIELREF.jpg",
       },
     ]
   }
