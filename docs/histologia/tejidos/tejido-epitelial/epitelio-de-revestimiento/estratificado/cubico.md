@@ -17,3 +17,11 @@ Su función primordial es:
  - Facilitar la conducción de secreciones en glándulas exocrinas.
  
 *Histológicamente, este epitelio es menos común que otros tipos estratificados, pero juega un papel clave en el recubrimiento de ciertos conductos glandulares*.
+
+## Glándulas salivales
+
+
+## Glándulas mamarias
+
+
+
