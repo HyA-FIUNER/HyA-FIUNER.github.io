@@ -6,6 +6,8 @@ sidebar_position: 2
 
 ## Glándula Mamaria 
 
+falta descripción
+
 import TissueCard from '@site/src/components/TissueCard';
 
 <TissueCard
@@ -24,6 +26,12 @@ import TissueCard from '@site/src/components/TissueCard';
 
 ## Túbulos renales (Riñón)
 
+falta imagenes microscopicas y descripción
+
 ## Conductos biliares (Hígado)
 
+falta imagenes microscopicas y descripción
+
 ## Conductos pancreáticos (Páncreas)
+
+falta imagenes microscopicas y descripción
