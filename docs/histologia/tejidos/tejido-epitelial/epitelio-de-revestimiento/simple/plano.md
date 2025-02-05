@@ -12,6 +12,12 @@ A continuación, se presentan imágenes mediante microscopía óptica, donde se 
 
 ## Endotelio (Vena Cava)
 
+falta imagenes microscopicas y descripción
+
 ## Alveolo (Pulmón)
 
+falta imagenes microscopicas y descripción
+
 ## Capsula de Bowman (Riñón)
+
+falta imagenes microscopicas y descripción
