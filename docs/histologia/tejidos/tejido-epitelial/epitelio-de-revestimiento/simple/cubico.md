@@ -19,7 +19,7 @@ import TissueCard from '@site/src/components/TissueCard';
         "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/PORTAGLÁNDULAMAMARIA.jpg",
       },
     ]
-}
+  }
 />
 
 ## Túbulos renales (Riñón)

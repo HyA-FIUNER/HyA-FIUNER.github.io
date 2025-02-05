@@ -17,8 +17,6 @@ Este tipo de epitelio se clasifica en:
 
 ## Piel - Epidermis
 
-import React from 'react';
-
 import TissueCard from '@site/src/components/TissueCard';
 
 <TissueCard
@@ -56,10 +54,6 @@ import TissueCard from '@site/src/components/TissueCard';
 ## Lengua (Cavidad oral)
 
 ## Esofago
-
-import React from 'react';
-
-import TissueCard from '@site/src/components/TissueCard';
 
 <TissueCard
   title = 'Esofago'
