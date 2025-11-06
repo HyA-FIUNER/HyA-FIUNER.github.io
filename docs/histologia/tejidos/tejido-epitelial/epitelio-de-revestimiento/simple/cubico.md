@@ -12,21 +12,9 @@ import TissueCard from '@site/src/components/TissueCard';
 
 ## Glándula Mamaria 
 
-falta descripción
+<TissueCard title = '' category = 'Epitelio Simple Cubico' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/mama/PORTAGLÁNDULAMAMARIA.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/mama/4XMAMA.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/mama/10XMAMA.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/mama/40XMAMA.jpg", }, ] } />
 
-<TissueCard
-  title = 'Estomago'
-  category = 'Epitelio Simple Estomago'
-  description = 'E&H'
-  images = {
-    [
-      {
-        "caption": "Porta",
-        "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/PORTAGLÁNDULAMAMARIA.jpg",
-      },
-    ]
-  }
-/>
+falta descripción
 
 ## Túbulos renales (Riñón)
  <TissueCard title = '' category = 'Epitelio Simple Cubico' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/rinion/PORTARIÑÓN.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/rinion/4XRIÑÓN.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/vena-cava/10XRIÑÓN.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/vena-cava/40XRIÑÓN.jpg", }, ] } />
@@ -35,11 +23,14 @@ falta  descripción
 
 ## Conductos biliares (Hígado)
 
-falta imagenes microscopicas y descripción
+ <TissueCard title = '' category = 'Epitelio Simple Cubico' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/higado/PORTAHÍGADO.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/higado/4XHÍGADON.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/higado/10XHÍGADO.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/higado/40XHÍGADO.jpg", }, ] } />
+
+falta  descripción
 
 ## Conductos pancreáticos (Páncreas)
 
-falta imagenes microscopicas y descripción
+
+falta  descripción
 
 ## Ovarios (epitelio germinativo)
 
