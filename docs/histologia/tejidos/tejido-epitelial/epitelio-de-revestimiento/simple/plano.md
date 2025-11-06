@@ -10,9 +10,11 @@ El tejido epitelial plano simple se encuentra en lugares donde se requiere una r
 
 A continuación, se presentan imágenes mediante microscopía óptica, donde se aprecian claramente las características distintivas de este tipo de epitelio.
 
+import TissueCard from '@site/src/components/TissueCard';
+
 ## Endotelio (Vena Cava)
 
-falta imagenes microscopicas y descripción
+<TissueCard title = 'Vena Cava' category = 'Epitelio Simple plano' description = 'E&H' images = { [ { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/4XVENACAVA.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/10XVENACAVA.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/40XVENACAVA.jpg", }, ] } />
 
 ## Alveolo (Pulmón)
 
