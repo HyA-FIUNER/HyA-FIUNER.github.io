@@ -8,11 +8,11 @@ El epitelio cúbico simple está formado por una sola capa de células de forma 
 
 A continuación, se presentan imágenes mediante microscopía óptica, donde se aprecian claramente las características distintivas de este tipo de epitelio.
 
+import TissueCard from '@site/src/components/TissueCard';
+
 ## Glándula Mamaria 
 
 falta descripción
-
-import TissueCard from '@site/src/components/TissueCard';
 
 <TissueCard
   title = 'Estomago'
@@ -29,8 +29,9 @@ import TissueCard from '@site/src/components/TissueCard';
 />
 
 ## Túbulos renales (Riñón)
+ <TissueCard title = '' category = 'Epitelio Simple Cubico' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/rinion/PORTARIÑÓN.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/rinion/4XRIÑÓN.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/vena-cava/10XRIÑÓN.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/vena-cava/40XRIÑÓN.jpg", }, ] } />
 
-falta imagenes microscopicas y descripción
+falta  descripción
 
 ## Conductos biliares (Hígado)
 
