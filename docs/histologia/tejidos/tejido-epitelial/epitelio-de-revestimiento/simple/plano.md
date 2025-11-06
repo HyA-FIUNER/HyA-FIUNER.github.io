@@ -18,8 +18,8 @@ import TissueCard from '@site/src/components/TissueCard';
 
 ## Alveolo (Pulmón)
 
-falta imagenes microscopicas y descripción
+<TissueCard title = 'Pulmón' category = 'Epitelio Simple plano' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/pulmon/PORTAPULMÓN.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/pulmón/4XPULMÓN.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/pulmon/10XPULMÓN.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/pulmon/40XPULMÓN.jpg", }, ] } />
 
 ## Capsula de Bowman (Riñón)
 
-falta imagenes microscopicas y descripción
+<TissueCard title = 'Pulmón' category = 'Epitelio Simple plano' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/rinion/PORTARIÑÓN.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/rinion/4XRIÑÓN.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/rinion/10XRIÑÓN.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/rinion/40XRIÑÓN.jpg", }, ] } />
