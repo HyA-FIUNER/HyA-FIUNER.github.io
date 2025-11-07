@@ -12,12 +12,12 @@ import TissueCard from '@site/src/components/TissueCard';
 
 ## Glándula Mamaria 
 
-<TissueCard title = '' category = 'Epitelio Simple Cubico' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/mama/PORTAGLÁNDULAMAMARIA.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/mama/4XMAMA.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/mama/10XMAMA.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/mama/40XMAMA.jpg", }, ] } />
+<TissueCard title = '' category = 'Epitelio Simple Cubico' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/mama/PORTAGLANDULAMAMARIA.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/mama/4XMAMA.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/mama/10XMAMA.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/mama/40XMAMA.jpg", }, ] } />
 
 falta descripción
 
 ## Túbulos renales (Riñón)
- <TissueCard title = '' category = 'Epitelio Simple Cubico' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/rinion/PORTARIÑÓN.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/rinion/4XRIÑÓN.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/vena-cava/10XRIÑÓN.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/vena-cava/40XRIÑÓN.jpg", }, ] } />
+ <TissueCard title = '' category = 'Epitelio Simple Cubico' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/rinion/PORTARINION.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/rinion/4XRINION.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/rinion/10XRINION.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/rinion/40XRINION.jpg", }, ] } />
 
 falta  descripción
 
