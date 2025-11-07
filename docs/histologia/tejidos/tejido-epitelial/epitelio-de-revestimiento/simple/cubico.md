@@ -23,7 +23,7 @@ falta  descripción
 
 ## Conductos biliares (Hígado)
 
- <TissueCard title = '' category = 'Epitelio Simple Cubico' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/higado/PORTAHÍGADO.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/higado/4XHÍGADON.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/higado/10XHÍGADO.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/higado/40XHÍGADO.jpg", }, ] } />
+ <TissueCard title = '' category = 'Epitelio Simple Cubico' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/higado/PORTAHIGADO.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/higado/4XHIGADO.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/higado/10XHIGADO.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/cubico/higado/40XHIGADO.jpg", }, ] } />
 
 falta  descripción
 
