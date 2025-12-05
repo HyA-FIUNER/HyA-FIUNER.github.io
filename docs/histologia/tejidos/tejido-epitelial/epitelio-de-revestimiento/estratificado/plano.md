@@ -53,6 +53,32 @@ import TissueCard from '@site/src/components/TissueCard';
 
 ## Lengua (Cavidad oral)
 
+<TissueCard
+  title = 'Lengua'
+  category = 'Epitelio Simple Cilíndrico con microvellocidades'
+  description = 'E&H'
+  images = {
+    [
+      {
+        "caption": "Porta",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/PORTALENGUA.jpg",
+      },
+      {
+        "caption": "x 4",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/4XLENGUAREF.jpg",
+      },
+      {
+        "caption": "x 10",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/10XLENGUAREF.jpg",
+      },
+      {
+        "caption": "x 40",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/40XLENGUAREF.jpg",
+      },
+    ]
+  }
+/>
+
 ## Esofago
 
 <TissueCard
