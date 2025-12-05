@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkhya_fiuner_github_io=globalThis.webpackChunkhya_fiuner_github_io||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Art\xedculos","items":[{"title":"Colaborar con el contenido","permalink":"/blog/colaborar","unlisted":false,"date":"2024-03-01T00:00:00.000Z"}]}')}}]);
