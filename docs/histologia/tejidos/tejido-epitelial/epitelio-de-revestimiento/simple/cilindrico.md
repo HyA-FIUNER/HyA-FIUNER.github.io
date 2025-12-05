@@ -36,29 +36,6 @@ El epitelio cilíndrico simple es un tipo de tejido altamente especializado cuya
 
 import TissueCard from '@site/src/components/TissueCard';
 
-## Intestino
-<TissueCard
-  title = 'Intestino Delgado'
-  category = 'Epitelio Simple Cilíndrico con microvellocidades'
-  description = 'E&H'
-  images = {
-    [
-      {
-        "caption": "x 4",
-        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/4XINTESTINOREF.jpg",
-      },
-      {
-        "caption": "x 10",
-        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/10XINTESTINOREF.jpg",
-      },
-      {
-        "caption": "x 40",
-        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/40XINTESTINOREF.jpg",
-      },
-    ]
-  }
-/>
-
 ## Intestino delgado
 
 
@@ -88,7 +65,7 @@ import TissueCard from '@site/src/components/TissueCard';
   }
 />
 
-## Estomago
+## Estómago
 
 <TissueCard
   title = 'Estomago'
