@@ -17,23 +17,23 @@ import TissueCard from '@site/src/components/TissueCard';
     [
       {
         "caption": "Porta",
-        "src": "/img/histologia/muscular/estriado/esquelético-visceral/PORTALENGUA.jpg",
+        "src": "/img/histologia/muscular/estriado/esqueletico-visceral/portalengua.jpg",
       },
       {
         "caption": "x 4",
-        "src": "/img/histologia/muscular/estriado/esquelético-visceral/4XLENGUAREF.jpg",
+        "src": "/img/histologia/muscular/estriado/esqueletico-visceral/4xlenguaref.jpg",
       },
       {
         "caption": "x 10",
-        "src": "/img/histologia/muscular/estriado/esquelético-visceral/10XLENGUAREF.jpg",
+        "src": "/img/histologia/muscular/estriado/esqueletico-visceral/10xlenguaref.jpg",
       },
       {
         "caption": "x 40 CT",
-        "src": "/img/histologia/muscular/estriado/esquelético-visceral/40XLENGUATREF.jpg",
+        "src": "/img/histologia/muscular/estriado/esqueletico-visceral/40xlenguatref.jpg",
       },
       {
         "caption": "x 40 CL",
-        "src": "/img/histologia/muscular/estriado/esquelético-visceral/40XLENGUALREF.jpg",
+        "src": "/img/histologia/muscular/estriado/esqueletico-visceral/40xlengualref.jpg",
       },
     ]
   }

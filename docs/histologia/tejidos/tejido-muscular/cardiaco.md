@@ -19,19 +19,19 @@ import TissueCard from '@site/src/components/TissueCard';
     [
       {
         "caption": "Porta",
-        "src": "/img/histologia/muscular/estriado/cardíaco/PORTACORAZÓN.jpg",
+        "src": "/img/histologia/muscular/estriado/cardiaco/portacorazon.jpg",
       },
       {
         "caption": "x 4",
-        "src": "/img/histologia/muscular/estriado/cardíaco/4XCORAZÓNREF.jpg",
+        "src": "/img/histologia/muscular/estriado/cardiaco/4xcorazonref.jpg",
       },
       {
         "caption": "x 10",
-        "src": "/img/histologia/muscular/estriado/cardíaco/10XCORAZÓNREF.jpg",
+        "src": "/img/histologia/muscular/estriado/cardiaco/10xcorazonref.jpg",
       },
       {
         "caption": "x 40",
-        "src": "/img/histologia/muscular/estriado/cardíaco/40XCORAZÓNREF.jpg",
+        "src": "/img/histologia/muscular/estriado/cardiaco/40xcorazonref.jpg",
       },
     ]
   }
