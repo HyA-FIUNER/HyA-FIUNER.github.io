@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Sanguineo
+# Sanguíneo
 
 import TissueCard from '@site/src/components/TissueCard';
 
@@ -16,47 +16,51 @@ import TissueCard from '@site/src/components/TissueCard';
     [
       {
         "caption": "Porta",
-        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/PORTASANGRE.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/portasangre.jpg",
       },
       {
         "caption": "x 4",
-        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/4XSANGREREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/4xsangreref.jpg",
       },
       {
         "caption": "x 10",
-        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/10XSANGREREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/10xsangreref.jpg",
       },
       {
         "caption": "x 40",
-        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/40XSANGREREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/40xsangreref.jpg",
       },
       {
         "caption": "x 100",
-        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/100XSANGREREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/100xsangreref.jpg",
       },
       {
         "caption": "x 100",
-        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/100XSANGRE2REF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/100xsangre2ref.jpg",
       },
       {
         "caption": "x 100",
-        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/100XSANGRE4REF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/100xsangre3ref.jpg",
       },
       {
         "caption": "x 100",
-        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/100XSANGRE5REF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/100xsangre4ref.jpg",
       },
       {
         "caption": "x 100",
-        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/100XSANGRE6REF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/100xsangre5ref.jpg",
       },
       {
         "caption": "x 100",
-        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/100XSANGRE7REF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/100xsangre6ref.jpg",
       },
       {
         "caption": "x 100",
-        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/100XSANGRE8REF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/100xsangre7ref.jpg",
+      },
+      {
+        "caption": "x 100",
+        "src": "/img/histologia/conectivo/conectivo-especializado/sangre/100xsangre8ref.jpg",
       },
     ]
   }

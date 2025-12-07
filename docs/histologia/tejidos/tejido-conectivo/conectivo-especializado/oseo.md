@@ -17,19 +17,19 @@ import TissueCard from '@site/src/components/TissueCard';
     [
       {
         "caption": "Porta",
-        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/PORTAESPONJOSO.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/portaesponjoso.jpg",
       },
       {
         "caption": "x 4",
-        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/4XESPONJOSOREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/4xesponjosoref.jpg",
       },
       {
         "caption": "x 10",
-        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/10XESPONJOSOREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/10xesponjosoref.jpg",
       },
       {
         "caption": "x 40",
-        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/40XESPONJOSOREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/40xesponjosoref.jpg",
       },
     ]
   }
@@ -45,19 +45,19 @@ import TissueCard from '@site/src/components/TissueCard';
     [
       {
         "caption": "Porta",
-        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/PORTACOMPACTO.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/portacompacto.jpg",
       },
       {
         "caption": "x 4",
-        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/4XCOMPACTOREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/4xcompactoref.jpg",
       },
       {
         "caption": "x 10",
-        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/10XCOMPACTOREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/10xcompactoref.jpg",
       },
       {
         "caption": "x 40",
-        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/4XCOMPACTOREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/oseo/40xcompactoref.jpg",
       },
     ]
   }

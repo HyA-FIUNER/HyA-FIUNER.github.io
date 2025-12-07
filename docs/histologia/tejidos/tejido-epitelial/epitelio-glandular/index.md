@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tejido Glandular
+# Tejido glandular
 
 Docusaurus can manage multiple versions of your docs.
 

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 El término **histología** proviene del griego **histos** que significan **tejido** y **logía** que significa **estudio o ciencia**, respectivamente. Por lo cual el término **histología** es la ciencia que se centra en el estudio de los tejidos y órganos  del cuerpo humano. Utilizando la anatomía microscópica, la histología examina los tejidos que componen los órganos y sistemas del cuerpo humano. Una de las razones clave para adoptar este término fue la comprensión del desarrollo embrionario, que se basa en las tres capas germinales primarias: ectodermo, mesodermo y endodermo. Estas capas a su vez dan origen a los cuatro principales tipos de tejidos:
 
-* [Tejido Epitelial](./histologia/tejidos/tejido-epitelial).
+* [Tejido epitelial](./histologia/tejidos/tejido-epitelial).
 
 * [Tejido conectivo](./histologia/tejidos/tejido-conectivo/).
 

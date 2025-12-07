@@ -2,4 +2,4 @@
 sidebar_position: 4
 ---
 
-# Tejido nerviso
+# Tejido nervioso

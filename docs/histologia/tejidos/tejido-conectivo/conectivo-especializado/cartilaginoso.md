@@ -17,19 +17,19 @@ import TissueCard from '@site/src/components/TissueCard';
     [
       {
         "caption": "Porta",
-        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/PORTAELÁSTICO.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/portaelastico.jpg",
       },
       {
         "caption": "x 4",
-        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/4XELÁSTICOREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/4xelasticoref.jpg",
       },
       {
         "caption": "x 10",
-        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/10XELÁSTICOREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/10xelasticoref.jpg",
       },
       {
         "caption": "x 40",
-        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/40XELÁSTICOREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/40xelasticoref.jpg",
       },
     ]
   }
@@ -44,19 +44,19 @@ import TissueCard from '@site/src/components/TissueCard';
     [
       {
         "caption": "Porta",
-        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/PORTAHIALINO.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/portahialino.jpg",
       },
       {
         "caption": "x 4",
-        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/4XHIALINOREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/4xhialinoref.jpg",
       },
       {
         "caption": "x 10",
-        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/10XHIALINOREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/10xhialinoref.jpg",
       },
       {
         "caption": "x 40",
-        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/40XHIALINOREF.jpg",
+        "src": "/img/histologia/conectivo/conectivo-especializado/cartilaginoso/40xhialinoref.jpg",
       },
     ]
   }
