@@ -21,25 +21,25 @@ import TissueCard from '@site/src/components/TissueCard';
 
 <TissueCard
   title = 'Piel'
-  category = 'Epitelio Simple Cilíndrico con microvellocidades'
+  category = 'Epitelio estraificado plano queratinizado'
   description = 'E&H'
   images = {
     [
       {
         "caption": "Porta",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/PORTAPIEL.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/portapiel.jpg",
       },
       {
         "caption": "x 4",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/4XPIELREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/4xpielref.jpg",
       },
       {
         "caption": "x 10",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/10XPIELREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/10xpielref.jpg",
       },
       {
         "caption": "x 40",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/40XPIELREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/40xpielref.jpg",
       },
     ]
   }
@@ -55,53 +55,53 @@ import TissueCard from '@site/src/components/TissueCard';
 
 <TissueCard
   title = 'Lengua'
-  category = 'Epitelio Simple Cilíndrico con microvellocidades'
+  category = 'Epitelio estratificado plano'
   description = 'E&H'
   images = {
     [
       {
         "caption": "Porta",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/PORTALENGUA.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/portalengua.jpg",
       },
       {
         "caption": "x 4",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/4XLENGUAREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/4xlenguaref.jpg",
       },
       {
         "caption": "x 10",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/10XLENGUAREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/10xlenguaref.jpg",
       },
       {
         "caption": "x 40",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/40XLENGUAREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/40xlenguaref.jpg",
       },
     ]
   }
 />
 
-## Esofago
+## Esófago
 
 <TissueCard
   title = 'Esofago'
-  category = 'Epitelio Simple Cilíndrico con microvellocidades'
+  category = 'Epitelio estratificado plano'
   description = 'E&H'
   images = {
     [
       {
         "caption": "Porta",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/PORTAESÓFAGO.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/portaesofago.jpg",
       },
       {
         "caption": "x 4",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/4XESÓFAGOREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/4xesofagoref.jpg",
       },
       {
         "caption": "x 10",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/10XESÓFAGOREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/10xesofagoref.jpg",
       },
       {
         "caption": "x 40",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/40XESÓFAGOREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/plano/40xesofagoref.jpg",
       },
     ]
   }

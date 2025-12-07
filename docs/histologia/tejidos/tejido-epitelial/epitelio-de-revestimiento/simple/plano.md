@@ -14,7 +14,7 @@ import TissueCard from '@site/src/components/TissueCard';
 
 ## Endotelio (Vena Cava)
 
-<TissueCard title = 'Vena Cava' category = 'Epitelio Simple plano' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/vena-cava/PORTAVENACAVA.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/vena-cava/4xvenacava.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/vena-cava/10xvenacava.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/vena-cava/40xvenacava.jpg", }, ] } />
+<TissueCard title = 'Vena Cava' category = 'Epitelio Simple plano' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/vena-cava/portavenacava.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/vena-cava/4xvenacava.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/vena-cava/10xvenacava.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/vena-cava/40xvenacava.jpg", }, ] } />
 
 ## Alveolo (Pulmón)
 
