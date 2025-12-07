@@ -42,19 +42,19 @@ import TissueCard from '@site/src/components/TissueCard';
     [
       {
         "caption": "Porta",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/deTransicion/PORTAVEJIGA.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/deTransicion/portavejiga.jpg",
       },
       {
         "caption": "x 4",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/deTransicion/4XVEJIGAREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/deTransicion/4xvejigaref.jpg",
       },
       {
         "caption": "x 10",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/deTransicion/10XVEJIGAREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/deTransicion/10xvejigaref.jpg",
       },
       {
         "caption": "x 40",
-        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/deTransicion/40XVEJIGAREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/epitelio_estratificado/deTransicion/40xvejigaref.jpg",
       },
     ]
   }
