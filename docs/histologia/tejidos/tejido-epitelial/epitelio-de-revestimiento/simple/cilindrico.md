@@ -41,25 +41,25 @@ import TissueCard from '@site/src/components/TissueCard';
 
 <TissueCard
   title = 'Intestino Delgado'
-  category = 'Epitelio Simple Cilíndrico con microvellocidades'
+  category = 'Epitelio Simple Cilíndrico con microvellosidades'
   description = 'E&H'
   images = {
     [
       {
         "caption": "Porta",
-        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/PORTAINTESTINODELGADO.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/portaintestinodelgado.jpg",
       },
       {
         "caption": "x 4",
-        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/4XINTESTINODELGADOREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/4xintestinodelgadoref.jpg",
       },
       {
         "caption": "x 10",
-        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/10XINTESTINODELGADOREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/10xintestinodelgadoref.jpg",
       },
       {
         "caption": "x 40",
-        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/40XINTESTINODELGADOREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/40xintestinodelgadoref.jpg",
       },
     ]
   }
@@ -75,19 +75,19 @@ import TissueCard from '@site/src/components/TissueCard';
     [
       {
         "caption": "Porta",
-        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/PORTAESTÓMAGO.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/portaestomago.jpg",
       },
       {
         "caption": "x 4",
-        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/4XESTÓMAGOREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/4xestomagoref.jpg",
       },
       {
         "caption": "x 10",
-        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/10XESTÓMAGOREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/10xestomagoref.jpg",
       },
       {
         "caption": "x 40",
-        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/40XESTÓMAGOREF.jpg",
+        "src": "/img/histologia/epitelial/de-revestimiento/simple/cilindrico/40xestomagoref.jpg",
       },
     ]
   }

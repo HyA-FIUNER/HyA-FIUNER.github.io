@@ -18,7 +18,7 @@ import TissueCard from '@site/src/components/TissueCard';
 
 ## Alveolo (Pulmón)
 
-<TissueCard title = 'Pulmón' category = 'Epitelio Simple plano' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/pulmon/portapulmon.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/pulmón/4xpulmon.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/pulmon/10xpulmon.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/pulmon/40xpulmon.jpg", }, ] } />
+<TissueCard title = 'Pulmón' category = 'Epitelio Simple plano' description = 'E&H' images = { [ { "caption": "Porta", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/pulmon/portapulmon.jpg", }, { "caption": "x 4", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/pulmon/4xpulmon.jpg", }, { "caption": "x 10", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/pulmon/10xpulmon.jpg", }, { "caption": "x 40", "src": "/img/histologia/epitelial/de-revestimiento/simple/plano/pulmon/40xpulmon.jpg", }, ] } />
 
 ## Capsula de Bowman (Riñón)
 
